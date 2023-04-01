@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "dst",
+    "strict": true,
+  },
+  "include": ["src"]
+}
